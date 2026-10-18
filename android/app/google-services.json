@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "565896120674",
+    "project_id": "travelmaikubapp",
+    "storage_bucket": "travelmaikubapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565896120674:android:27e8a831201254997bc43b",
+        "android_client_info": {
+          "package_name": "com.example.my_first_app_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQu7BNyOiq021ojtglEqPGZiRz2yR6x1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
